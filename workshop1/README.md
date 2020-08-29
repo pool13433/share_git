@@ -1,11 +1,21 @@
 # workshop 1
 
-## exercise 1.1
+## เตรียมความพร้อมก่อนใช้งาน git
+``` 
+git version
+git --help -a
+``` 
+## exercise 1.1  เริ่ม git
+### 1.1.1 สร้าง local git
+``` 
+git init
+```
+### 1.1.2 ดึง git จาก remote repo
 ``` 
 git clone https://github.com/pool13433/share_git.git 
 ```
 
-## exercise 1.2 
+## exercise 1.2  คำสั่งพื้นฐาน
 ### 1.2.1 เพื่อแสดงสถานะล่าสุดของ git local repository
 ```
 git status
@@ -29,18 +39,18 @@ git reset
 ```
 git checkout {fileที่ลบไป}
 ```
-### 1.2.4  track โดยการเพิ่ม message กำกับ
+### 1.2.5  track โดยการเพิ่ม message กำกับ
 ```
 git commit -m "first commit"
 git status
 ```
-### 1.2.5  push โยนไฟล์ local ไปที่ remote repository
+### 1.2.6  push โยนไฟล์ local ไปที่ remote repository
 ```
 git push origin master
 ```
 ### จะได้ไฟล์ {user}.txt อยู่บน github ที่ /workshop1/{user}.txt
 
-## git คำสั่งเพิ่มเติมที่มีประโยชน์
+# git คำสั่งเพิ่มเติมที่มีประโยชน์
 ### คำสั่งดูความแตกต่าง
 ```
 git diff // เฉพาะ Branch หรือ Commit ID ที่เราใช้อยู่ ณ ขณะนี้
