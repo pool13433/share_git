@@ -9,5 +9,5 @@
 - สมัครสมาชิก Github [https://github.com/]
 
 ### เริ่มเรียนกันได้เลย
-- เข้าลิ้ง [https://github.com/pool13433/share_git]
-- เข้าไปที่ workshop1 และเริ่มทำแบบทดสอบได้เลย
+- เข้าลิ้ง [https://github.com/pool13433/share_git/tree/master/workshop1]
+- และเริ่มทำ workshop1 ได้เลย
