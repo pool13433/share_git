@@ -11,3 +11,16 @@
 ### เริ่มเรียนกันได้เลย
 - เข้าลิ้ง [https://github.com/pool13433/share_git/tree/master/workshop1]
 - และเริ่มทำ workshop1 ได้เลย
+
+
+## ปัญหาต่าง ๆ ที่เขอระหว่าง traning 
+- ปัญหา
+``` 
+    $ git push
+remote: Permission to pool13433/share_git.git denied to jittimet.
+fatal: unable to access 'https://github.com/pool13433/share_git.git/': The requested URL returned error: 403
+```
+- แก้ด้วย
+```
+  ติดต่อเพิ่มเพิ่ม user เข้า remote repository ของ project
+```
