@@ -11,3 +11,5 @@
 ### เริ่มเรียนกันได้เลย
 - เข้าลิ้ง [https://github.com/pool13433/share_git/tree/master/workshop1]
 - และเริ่มทำ workshop1 ได้เลย
+
+add text on dev_pool branch
