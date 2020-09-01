@@ -12,7 +12,6 @@
 - เข้าลิ้ง [https://github.com/pool13433/share_git/tree/master/workshop1]
 - และเริ่มทำ workshop1 ได้เลย
 
-
 ## ปัญหาต่าง ๆ ที่เขอระหว่าง traning 
 - ปัญหา
 ``` 
